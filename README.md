@@ -1,5 +1,12 @@
-## Hi there 👋
+# Bem vindo ao meu perfil 👋
 
+Meu nome é **Eduardo**
+
+*Sou aluno da escola: João Jorge Marmorato*
+*Estou cursando tecnologia em Alura.
+### Meu contato :
+
+00001114280276sp@al.educacao.sp.gov.br
 <!--
 **Kaka016/Kaka016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
