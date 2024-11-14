@@ -4,7 +4,7 @@ Meu nome é **Eduardo**
 
 *Sou aluno da escola: João Jorge Marmorato*
 
-*Estou cursando tecnologia em Alura.
+Estou cursando tecnologia em Alura.
 ### Meu contato :
 
 00001114280276sp@al.educacao.sp.gov.br
